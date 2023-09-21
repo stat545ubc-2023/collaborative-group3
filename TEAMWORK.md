@@ -1,9 +1,10 @@
 ## STAT 545A Milestone Project 1, Group 3
-**Team Members**: Hitasha Bajaj, Bradley Hoskin, Ji Lu, Alex Wang
+**Team Members**: Hitasha Bajaj, Bradley Hoskin, Li Ju, Alex Wang
+
 STAT 545A Milestone Project 1, Group 3
 <code is below this line>
 ## STAT 545A Milestone Project 1, Group 3
-**Team Members**: Hitasha Bajaj, Bradley Hoskin, Ji Lu, Alex Wang
+**Team Members**: Hitasha Bajaj, Bradley Hoskin, Li Ju, Alex Wang
 
 
 #### Communication:
@@ -36,3 +37,5 @@ Li | Created the collaborative repository and added the other team members as co
 
 #### Timing:
 During the second zoom meeting, we all agreed to finish our respective portions of the project by 11:59pm on Thursday, September 21 2023. That way, we would all have time to review each others work and make any necessary edits and comments before the deadline of the project. During our third zoom meeting, we again confirmed that everyone was able to complete their work at the agreed upon deadline.
+
+
