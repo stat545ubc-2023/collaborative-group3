@@ -4,3 +4,5 @@ This project is a collaborative project for STAT545A completed by Group 3. The g
 2. Open the RMarkdown files in RStudio 
 3. Ensure you’ve installed tidyverse packages. If not installed, you can do this with install.packages(“tidyverse”) in the R console 
 4. Click ‘knit’ to knit the document to an md file
+
+For Milestone 2, we added 2 new files to our repository: troubleshooting-2.md and troubleshooting-2.rmd, which make up the second troubleshooting assignment. For this assignment, we fixed the errors in R code and knit the final, corrected file into a .md file.
