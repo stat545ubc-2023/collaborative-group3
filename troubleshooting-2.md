@@ -45,9 +45,6 @@ library(stringr)
 install.packages("devtools") # Do not run this if you already have this package installed! If it is already installed, we can remove this line.
 ```
 
-    ## Installing package into 'C:/Users/alexb/AppData/Local/R/win-library/4.3'
-    ## (as 'lib' is unspecified)
-
     ## Error in contrib.url(repos, "source"): trying to use CRAN without setting a mirror
 
 ``` r
@@ -256,14 +253,24 @@ I forgot what that mystery function is. Can you remember?
 
 ``` r
 ### ERROR HERE ### 
-summarise(movieLens,
+transmute(movieLens,
        average_rating = mean(rating))
 ```
 
-    ## # A tibble: 1 × 1
-    ##   average_rating
-    ##            <dbl>
-    ## 1           3.54
+    ## # A tibble: 100,004 × 1
+    ##    average_rating
+    ##             <dbl>
+    ##  1           3.54
+    ##  2           3.54
+    ##  3           3.54
+    ##  4           3.54
+    ##  5           3.54
+    ##  6           3.54
+    ##  7           3.54
+    ##  8           3.54
+    ##  9           3.54
+    ## 10           3.54
+    ## # ℹ 99,994 more rows
 
 ## Exercise 3: Calculating with `summarise()`-like functions
 
